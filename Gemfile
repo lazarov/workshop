@@ -21,6 +21,7 @@ gem 'travis'
 gem 'ffaker'
 gem 'konf'
 gem 'rails_12factor', group: :production
+gem 'angular-rails-templates'
 
 group :development do
   gem 'spring'
